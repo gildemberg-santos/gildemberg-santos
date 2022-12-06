@@ -28,4 +28,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Gildemberg-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Gildemberg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Gildemberg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Gildemberg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
+  <img align="center" alt="Gildemberg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
 </div>
