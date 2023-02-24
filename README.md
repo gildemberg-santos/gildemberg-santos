@@ -1,4 +1,3 @@
-
 <p>
   <strong>Nome:</strong> Gildemberg Santos </br>
   <strong>Profissão:</strong> Desenvolvedor Full-Stack </br>
