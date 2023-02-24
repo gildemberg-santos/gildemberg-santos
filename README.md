@@ -8,6 +8,8 @@
   Olá, sou Gildemberg Santos, um desenvolvedor Full-Stack apaixonado por tecnologia e programação. Meu foco atual está em desenvolvimento web com as tecnologias mais recentes e populares. Além disso, estou sempre procurando aprender novas tecnologias e melhorar minhas habilidades existentes.
 </p>
 
+[![Gmail Badge](https://img.shields.io/badge/-gildemberg.santos@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gildemberg.santos@gmail.com)](gildemberg.santos@gmail.com)
+
 </br>
 
 <div align="center">
