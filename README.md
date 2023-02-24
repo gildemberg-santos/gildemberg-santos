@@ -9,6 +9,7 @@
 </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-gildemberg.santos@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gildemberg.santos@gmail.com)](mailto:gildemberg.santos@gmail.com)
+[![Gmail WhatsApp](https://img.shields.io/badge/-(85)%209%209136.5507-000000?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5585991365507)](https://wa.me/5585991365507)
 
 </br>
 
