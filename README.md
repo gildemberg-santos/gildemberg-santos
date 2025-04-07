@@ -22,8 +22,12 @@
 
 <h3>🎓 Formação Acadêmica</h3>
 <ul>
-<li><strong>Centro Universitário Estácio do Ceará</strong> - Tecnológica em Análise e Desenvolvimento de Sistemas [Em andamento]</li>
-<li><strong>Cisco Networking Academy</strong> - IT Essentials: PC Hardware and Software</li>
+<li><strong>Centro Universitário Estácio do Ceará</strong> - Tecnológica em Análise e Desenvolvimento de Sistemas (Em andamento)</li>
+<li><strong>Cisco Networking Academy</strong> - IT Essentials: PC Hardware and Software (2015)</li>
+<li><strong>Microsolution Computer Academy</strong> - Infraestrutura (2013)</li>
+<li><strong>Senac Brasil</strong> - Instalador e Reparador de Redes de Computadores (2013)</li>  
+<li><strong>Studants to Business (Microsoft)</strong> - Desenvolvedor - Windows Phone 7 (2012)</li>
+<li><strong>Studants to Business (Microsoft)</strong> - Desenvolvimento - Microsoft Innovation Center (2011)</li>  
 </ul>
 
 <h3>🔖 Licenças e Certificações</h3>
