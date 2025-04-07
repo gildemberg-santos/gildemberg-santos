@@ -6,25 +6,29 @@
 
 <h3>🚀 Sobre mim</h3>
 <ul>
-<li>🔹 Desenvolvedor back-end focado em otimização e escalabilidade</li>
-<li>🔹 Apaixonado por aprender novas tecnologias e metodologias</li>
-<li>🔹 Sempre explorando maneiras de melhorar minha eficiência e qualidade de código</li>
-<li>🔹 Colaborativo e pronto para compartilhar conhecimento com a comunidade</li>
+<li>Desenvolvedor back-end focado em otimização e escalabilidade</li>
+<li>Apaixonado por aprender novas tecnologias e metodologias</li>
+<li>Sempre explorando maneiras de melhorar minha eficiência e qualidade de código</li>
+<li>Colaborativo e pronto para compartilhar conhecimento com a comunidade</li>
 </ul>
 
 <h3>🛠️ Tecnologias e Ferramentas</h3>
 <ul>
-<li><strong>Linguagens:</strong> [Go, Ruby, Python, JavaScript]</li>
-<li><strong>Frameworks:</strong> [Rails, Flask, FastAPI]</li>
-<li><strong>Banco de Dados:</strong> [PostgreSQL, MongoDB, ClickHouse, Redis]</li>
-<li><strong>Ferramentas:</strong> [Docker, Git, CI/CD]</li>
+<li><strong>Linguagens:</strong> Go, Ruby, Python, JavaScript</li>
+<li><strong>Frameworks:</strong> Ruby on Rails, RSpec, Flask, FastAPI</li>
+<li><strong>Banco de Dados:</strong> PostgreSQL, MongoDB, ClickHouse, Redis</li>
+<li><strong>Ferramentas:</strong> Docker, Git, CI/CD, APIs de IA Generativa</li>
 </ul>
 
-<h3>🌱 Em constante aprendizado</h3>
+<h3>🎓 Formação Acadêmica</h3>
 <ul>
-<li>[Go, Ruby]</li>
-<li>[Conceitos avançados de arquitetura de software]</li>
-<li>[Cloud]</li>
+<li><strong>Centro Universitário Estácio do Ceará</strong> - Tecnológica em Análise e Desenvolvimento de Sistemas [Em andamento]</li>
+<li><strong>Cisco Networking Academy</strong> - IT Essentials: PC Hardware and Software</li>
+</ul>
+
+<h3>🔖 Licenças e Certificações</h3>
+<ul>
+<li><strong>Microsoft MTA: Software Development Fundamentals (C#)</strong> - Emitido em Jul/2013</li>  
 </ul>
 
 <h3>📫 Como me encontrar</h3>
