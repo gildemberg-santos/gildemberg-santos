@@ -1,42 +1,69 @@
+# Gildemberg Santos
 
-<h1>👋 Olá! Eu sou Gildemberg Santos</h1>
-<h2>💻 Desenvolvedor Back-End | 🚀 Fascinado por Tecnologia | 📍 Aquiraz - CE, Brasil 🇧🇷</h2>
+**Desenvolvedor Backend · Ruby on Rails · Go · Python · IA aplicada**
+Aquiraz, Ceará, Brasil · aberto a vagas remotas ou híbridas
 
-<p>Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da programação e desenvolvimento back-end, sempre buscando novas tecnologias e aprimorando minhas habilidades. Trabalho com as tecnologias mais modernas do desenvolvimento web para criar soluções eficientes e escaláveis.</p>
+[Português](#português) · [English](#english)
 
-<h3>🚀 Sobre mim</h3>
-<ul>
-<li>Desenvolvedor back-end focado em otimização e escalabilidade</li>
-<li>Fascinado por aprender novas tecnologias e metodologias</li>
-<li>Sempre explorando maneiras de melhorar minha eficiência e qualidade de código</li>
-<li>Colaborativo e pronto para compartilhar conhecimento com a comunidade</li>
-</ul>
+---
 
-<h3>🛠️ Tecnologias e Ferramentas</h3>
-<ul>
-<li><strong>Linguagens:</strong> Go, Ruby, Python, JavaScript</li>
-<li><strong>Frameworks:</strong> Ruby on Rails, RSpec, Flask, FastAPI</li>
-<li><strong>Banco de Dados:</strong> PostgreSQL, MongoDB, ClickHouse, Redis</li>
-<li><strong>Ferramentas:</strong> Docker, Git, CI/CD, APIs de IA Generativa</li>
-</ul>
+## Português
 
-<h3>🎓 Formação Acadêmica</h3>
-<ul>
-<li><strong>Centro Universitário Estácio do Ceará</strong> - Tecnológica em Análise e Desenvolvimento de Sistemas (Em andamento)</li>
-<li><strong>Cisco Networking Academy</strong> - IT Essentials: PC Hardware and Software (2015)</li>
-<li><strong>Microsolution Computer Academy</strong> - Infraestrutura (2013)</li>
-<li><strong>Senac Brasil</strong> - Instalador e Reparador de Redes de Computadores (2013)</li>  
-<li><strong>Studants to Business (Microsoft)</strong> - Desenvolvedor - Windows Phone 7 (2012)</li>
-<li><strong>Studants to Business (Microsoft)</strong> - Desenvolvimento - Microsoft Innovation Center (2011)</li>  
-</ul>
+Mais de dez anos desenvolvendo software, parte deles como autônomo. Nos últimos cinco anos trabalhei com Ruby on Rails em um SaaS B2B de geração de leads, onde entrei como desenvolvedor júnior e saí respondendo pela área de integrações de produto.
 
-<h3>🔖 Licenças e Certificações</h3>
-<ul>
-<li><strong>Microsoft MTA: Software Development Fundamentals (C#)</strong> - Emitido em Jul/2013</li>  
-</ul>
+### O que eu faço bem
 
-<h3>📫 Como me encontrar</h3>
-<ul>
-<li>💼 <a href="https://www.linkedin.com/in/gildemberg-santos">LinkedIn</a></li>
-<li>📧 <a href="mailto:gildemberg.santos@gmail.com">E-mail de contato</a></li>
-</ul>
+- **Integrações com plataformas de marketing e vendas.** Meta Ads (Pixel e Conversions API), anúncios click-to-WhatsApp, GA4 Measurement Protocol, Salesforce e Bitrix24: envio de eventos, atribuição de conversões, rastreamento e diagnóstico quando os dados não chegam.
+- **Backend Rails de produção.** APIs, serviços e jobs testados com RSpec, rodando em Docker, com revisão de código e Rubocop no fluxo.
+- **Coleta e processamento de dados com Go.** Crawlers que mapeiam sites, leem sitemaps e feeds do Google Shopping e preparam conteúdo para sistemas de IA.
+- **IA aplicada.** Pipelines de RAG, estratégias de chunking e engenharia de prompt para chatbots em produção, incluindo correção de alucinações.
+
+### Projetos em destaque
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [bitrix24](https://github.com/gildemberg-santos/bitrix24) | Gem para criar e manipular leads e contatos no CRM Bitrix24 | Ruby, RSpec, VCR, GitHub Actions |
+| [salesforce](https://github.com/gildemberg-santos/salesforce) | Gem para autenticação OAuth e criação de leads na API do Salesforce | Ruby, RSpec, VCR, GitHub Actions |
+| [webcrawlerurl_v2](https://github.com/gildemberg-santos/webcrawlerurl_v2) | Serviço que mapeia sites, lê sitemaps e feeds de e-commerce e extrai texto para IA | Go, chromedp, Docker |
+
+### Stack
+
+**Linguagens:** Ruby, Go, Python, JavaScript
+**Frameworks e testes:** Ruby on Rails, RSpec, VCR, Flask, FastAPI
+**Dados:** PostgreSQL, MongoDB, ClickHouse, Redis
+**Infra e ferramentas:** Docker, GitHub Actions, Git, APIs de IA generativa
+
+### Formação
+
+Ciência da Computação — Centro Universitário Estácio do Ceará (em andamento)
+
+---
+
+## English
+
+Software developer with 10+ years of experience, including freelance work. For the last five years I built Ruby on Rails software for a B2B lead-generation SaaS, starting as a junior developer and leaving as the person responsible for product integrations.
+
+### What I do well
+
+- **Marketing and sales platform integrations.** Meta Ads (Pixel and Conversions API), click-to-WhatsApp ads, GA4 Measurement Protocol, Salesforce and Bitrix24: event delivery, conversion attribution, tracking, and debugging when data goes missing.
+- **Production Rails backends.** APIs, services and background jobs tested with RSpec, running on Docker, with code review and Rubocop in the workflow.
+- **Data collection with Go.** Crawlers that map websites, read sitemaps and Google Shopping feeds, and prepare content for AI systems.
+- **Applied AI.** RAG pipelines, chunking strategies and prompt engineering for production chatbots, including fixing hallucinations.
+
+### Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [bitrix24](https://github.com/gildemberg-santos/bitrix24) | Ruby gem to create and manage leads and contacts in Bitrix24 CRM | Ruby, RSpec, VCR, GitHub Actions |
+| [salesforce](https://github.com/gildemberg-santos/salesforce) | Ruby gem for OAuth and lead creation on the Salesforce API | Ruby, RSpec, VCR, GitHub Actions |
+| [webcrawlerurl_v2](https://github.com/gildemberg-santos/webcrawlerurl_v2) | Service that maps websites, reads sitemaps and e-commerce feeds, and extracts text for AI | Go, chromedp, Docker |
+
+### Education
+
+B.Sc. in Computer Science — Centro Universitário Estácio do Ceará (in progress)
+
+---
+
+## Contato · Contact
+
+[LinkedIn](https://www.linkedin.com/in/gildemberg-santos) · [gildemberg.santos@gmail.com](mailto:gildemberg.santos@gmail.com)
